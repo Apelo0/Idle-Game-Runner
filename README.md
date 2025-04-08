@@ -12,7 +12,7 @@ A tiny Windows-only Python script that keeps your game "running" in the backgrou
 
 1. Grab the latest release [here](https://github.com/Apelo0/Idle-Game-Runner/releases/tag/v1.0.0)
 1. Copy `Idle-Game-Runner.exe` into your Steam game's install directory
-2. Rename it to your game's name (for example GhostOfTsushima.exe)
+2. Rename it to your game's name (for example "Idle-Game-Runner.exe" > "GhostOfTsushima.exe")
 2. Run the game on Steam
 3. Press OK and let it run!
 
