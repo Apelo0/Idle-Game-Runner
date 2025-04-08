@@ -17,7 +17,6 @@ A tiny Windows-only Python script that keeps your game "running" in the backgrou
 3. Press OK and let it run!
 
 > ✅ Works best with games that don’t have anti-cheat or validation checks
-> The Releases tab includes an already-compiled version using PyInstaller!
 > ⚠️ Only tested on Windows with Steam games  
 
 ## 📦 Requirements
