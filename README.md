@@ -22,7 +22,7 @@ A tiny Windows-only Python script that keeps your game "running" in the backgrou
 
 ## 📦 Requirements
 
-- Python 3.x installed on your system (https://python.org)
+- Python 3.x installed on your system (https://www.python.org/downloads/)
 
 ## 🔒 Disclaimer
 
