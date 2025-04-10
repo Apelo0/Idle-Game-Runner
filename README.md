@@ -15,6 +15,7 @@ A tiny Windows-only Python script that keeps your game "running" in the backgrou
 2. Rename it to your game's name (for example `Idle-Game-Runner.exe` > `GhostOfTsushima.exe`)
 2. Run the game on Steam
 3. Press OK and let it run!
+4. If you want to actually play your game, just verify integrity of game files!
 
 > ✅ Works best with games that don’t have anti-cheat or validation checks
 > ⚠️ Only tested on Windows with Steam games  
